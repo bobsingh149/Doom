@@ -1,7 +1,6 @@
-# Doom-AI
- AI that can play DOOM
+# AI that can learn and beat DOOM game
 
-# This AI was created using a combination of deep learning and Q-learning. It was able to use its previous experiences to come up with new and innovative ways to beat the game.
+This AI was created using a combination of deep learning and Q-learning. It was able to use its previous experiences to come up with new and innovative ways to beat the game.
 
 # How it works
 - The AI was trained on a dataset of DOOM gameplay videos. The videos were used to teach the AI how to move around the environment, shoot enemies, and collect powerups. The AI was also given a reward for completing levels and a penalty for dying.
